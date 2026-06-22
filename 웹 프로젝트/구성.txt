@@ -1,0 +1,2 @@
+프론트엔드:html,js,css
+백엔드:파이썬(fastapi, sqlalchemy, sqlite)
